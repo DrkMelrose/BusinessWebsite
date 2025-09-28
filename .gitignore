@@ -1,0 +1,18 @@
+# build/кеш
+.next/
+out/
+dist/
+
+# зависимости
+node_modules/
+
+# локальные файлы
+.env
+.env.*
+!.env.example
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
